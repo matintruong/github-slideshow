@@ -1,7 +1,7 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Matin slide!"
 ---
 
-Good things take time
+Good things take time, fighting!
 Use the left arrow to go back!
